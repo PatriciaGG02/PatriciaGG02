@@ -1,4 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Patricia
+
+## Programadora web Junior
+  - JavaScript
+  - TypeScript
+  - Vue
+  - React
+  - TailwindCss
+
+    
+**Apasionada** por el código y *curiosa* por el mismo y todas sus maravillas creativas.
+[Mi LinkedIn](https://www.linkedin.com/in/patricia-garc%C3%ADa-gonz%C3%A1lez-6299561b3/)
 
 <!--
 **PatriciaGG02/PatriciaGG02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
