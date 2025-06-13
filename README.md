@@ -8,7 +8,8 @@
   - TailwindCss
 
     
-**Apasionada** por el código y *curiosa* por el mismo y todas sus maravillas creativas.
+**Apasionada** por el código y *curiosa* por el mismo y todas sus maravillas creativas.<br/>
+
 [Mi LinkedIn](https://www.linkedin.com/in/patricia-garc%C3%ADa-gonz%C3%A1lez-6299561b3/)
 
 <!--
